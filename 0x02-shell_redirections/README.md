@@ -1,4 +1,3 @@
-#!/bin/bash
-#0. Hello World
-#echo "Hello World"
-#To Write a script that prints “Hello, World”, followed by a new line to the standard output.
+# Shell, I/O Redirections and filters
+0. Hello World- > Write a script that prints “Hello, World”, followed by a new line to the standard output.#
+1. Confused smiley- > Write a script that displays a confused smiley "(Ôo)'.
